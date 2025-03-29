@@ -152,6 +152,7 @@ C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\DanhSaLiem-2122110589.csproj.CoreCompileInputs.cache
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\DanhSaLiem-2122110589.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\DanhSaLiem-2122110589.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\DanhSaLiem-2122110589.sourcelink.json
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\staticwebassets\msbuild.DanhSaLiem-2122110589.Microsoft.AspNetCore.StaticWebAssets.props
