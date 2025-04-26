@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\Blog.png",
+      "PackagePath": "staticwebassets\\images\\Blog.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\DanhSaLiem-2122110589-bt08.02.png",
+      "PackagePath": "staticwebassets\\images\\DanhSaLiem-2122110589-bt08.02.png"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\anhchus.jpeg",
+      "PackagePath": "staticwebassets\\images\\anhchus.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\butgo.jpg",
+      "PackagePath": "staticwebassets\\images\\butgo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\hopqua.jpg",
+      "PackagePath": "staticwebassets\\images\\hopqua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\lykhacten.jpg",
+      "PackagePath": "staticwebassets\\images\\lykhacten.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\quatangtutre.jpg",
+      "PackagePath": "staticwebassets\\images\\quatangtutre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ADMIN\\Desktop\\on\\DanhSaLiem-2122110589\\DanhSaLiem-2122110589\\wwwroot\\images\\thanhtao.jpg",
+      "PackagePath": "staticwebassets\\images\\thanhtao.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DanhSaLiem-2122110589.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DanhSaLiem-2122110589.props",
+      "PackagePath": "build\\DanhSaLiem-2122110589.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DanhSaLiem-2122110589.props",
+      "PackagePath": "buildMultiTargeting\\DanhSaLiem-2122110589.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DanhSaLiem-2122110589.props",
+      "PackagePath": "buildTransitive\\DanhSaLiem-2122110589.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

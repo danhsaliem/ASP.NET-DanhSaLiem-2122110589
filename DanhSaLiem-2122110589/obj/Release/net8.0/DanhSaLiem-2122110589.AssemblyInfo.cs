@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DanhSaLiem-2122110589")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7742fdddfb8efe158caa2c3eb2958902e85c299c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e86306dbb4f46a51f43492984c76256a5f515b2b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DanhSaLiem-2122110589")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DanhSaLiem-2122110589")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

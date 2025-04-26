@@ -169,3 +169,4 @@ C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\DanhSaLiem-2122110589.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\obj\Debug\net8.0\ref\DanhSaLiem-2122110589.dll
 C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\ADMIN\Desktop\on\DanhSaLiem-2122110589\DanhSaLiem-2122110589\bin\Debug\net8.0\DanhSaLiem-2122110589.staticwebassets.runtime.json
